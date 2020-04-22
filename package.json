@@ -1,0 +1,24 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "understanding express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon my-first-api/index.js",
+    "start": "nodemon index.js",
+    "test": "echo 'test running'",
+    "readFile": "nodemon read.js"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "victortorress-dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

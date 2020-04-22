@@ -1,0 +1,22 @@
+{
+    "koders": [
+        {
+            "name": "Tavo",
+            "generation": 7
+        },
+        {
+            "name": "Fersi",
+            "generation": 7
+        }        
+    ],
+    "mentors": [
+        {
+            "name": "Charles",
+            "type": "A"
+        },
+        {
+            "name": "Fernanda",
+            "type": "B"
+        }
+    ]
+}
