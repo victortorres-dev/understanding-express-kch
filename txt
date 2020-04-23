@@ -1,0 +1,4 @@
+// Doconstrucción
+
+// Doconstruccion de objeto
+const { } = objeto_al_que _se_le_sacan_los_atributos
